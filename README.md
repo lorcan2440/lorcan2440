@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Use this to design my profile page on GitHub.
+
 <!--
 **lorcan2440/lorcan2440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
