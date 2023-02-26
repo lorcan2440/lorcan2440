@@ -46,7 +46,7 @@
  
 ![Snake animation](https://github.com/lorcan2440/lorcan2440/blob/output/github-contribution-grid-snake.svg)
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3otPozPLVOFHlhnAXK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kpop-rose-k-pop-3otPozPLVOFHlhnAXK">via GIPHY</a></p>
+![](https://giphy.com/embed/3otPozPLVOFHlhnAXK)
 
 <p align="center"> 
   Visitor count<br>
