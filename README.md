@@ -39,7 +39,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/lorcan-nicholls-a703821b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  <a href="https://twitter.com/Nick_2440" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Nick_2440" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
   <a href=" https://www.youtube.com/channel/UCY4c3zzoHnvbWsdL7aoq23g" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
