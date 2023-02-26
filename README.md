@@ -46,7 +46,7 @@
  
 ![Snake animation](https://github.com/lorcan2440/lorcan2440/blob/output/github-contribution-grid-snake.svg)
 
-![](https://giphy.com/embed/3otPozPLVOFHlhnAXK)
+![]([https://giphy.com/embed/3otPozPLVOFHlhnAXK](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJjMWM2YzBhYjdiYmMxOTI5MWQyMzEwYzA5ODdlYzBhNmVkYTk1YiZjdD1n/3otPozPLVOFHlhnAXK/giphy.gif))
 
 <p align="center"> 
   Visitor count<br>
