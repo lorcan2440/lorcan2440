@@ -37,7 +37,7 @@
 
 #### LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nick2440)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Nick2440?theme=light,unicorn?ext=heatmap)
 
 #### My [Portfolio Website](https://lorcan.netlify.app/)
 
