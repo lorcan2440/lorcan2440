@@ -35,6 +35,10 @@
   
 </br>
 
+## LeetCode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Nick2440)
+
 ## Portfolio Website - [Click here](https://lorcan.netlify.app/)
 
 ## Contact 
