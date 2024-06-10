@@ -1,0 +1,58 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .item {
+        margin: 10px;
+    }
+    .item img {
+        display: block;
+        margin: 0 auto;
+    }
+  </style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60" width="60">
+            <div>Python</div>
+        </div>
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="60" width="60">
+            <div>OpenCV</div>
+        </div>
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="60" width="60">
+            <div>NumPy</div>
+        </div>
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="60" width="60">
+            <div>Pandas</div>
+        </div>
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="60" width="60">
+            <div>TensorFlow</div>
+        </div>
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60" width="60">
+            <div>C++</div>
+        </div>
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="60" width="60">
+            <div>MATLAB</div>
+        </div>
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" height="60" width="60">
+            <div>Lua</div>
+        </div>
+        <div class="item">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="60" width="60">
+            <div>R</div>
+        </div>
+    </div>
+  </foreignObject>
+</svg>
