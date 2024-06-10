@@ -48,6 +48,10 @@
   
 </br>
 
+<div style="width: 100%;">
+  <img src="skills.svg" style="width: 100%;" alt="Skills">
+</div>
+
 #### LeetCode
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Nick2440?ext=heatmap)
