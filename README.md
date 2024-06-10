@@ -38,8 +38,8 @@
 </div>
 &nbsp; Python 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OpenCV 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas 
 &nbsp;&nbsp;&nbsp;&nbsp; TensorFlow 
 &nbsp;&nbsp;&nbsp; C++ 
 &nbsp;&nbsp;&nbsp; MATLAB 
