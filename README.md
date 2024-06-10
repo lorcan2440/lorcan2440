@@ -33,7 +33,10 @@
   <img align="center" alt="Lua" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
 </div>
 
-  <img align="center" alt="Lua" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
+  <img align="center" alt="R" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
+</div>
+
+  <img align="center" alt="R" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
   
 </br>
