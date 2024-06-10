@@ -30,7 +30,10 @@
   <img align="center" alt="MATLAB" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <img align="center" alt="Lua" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
+  <img align="center" alt="Lua" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+</div>
+
+  <img align="center" alt="Lua" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
 </div>
   
 </br>
