@@ -35,6 +35,7 @@
 
   <img align="center" alt="R" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
+*image_caption*
   
 </br>
 
