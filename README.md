@@ -36,6 +36,7 @@
   <img align="center" alt="R" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+Python     OpenCV     NumPy     Pandas     TensorFlow     C++      MATLAB     Lua      R
   
 </br>
 
