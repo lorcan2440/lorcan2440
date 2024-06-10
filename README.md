@@ -9,10 +9,10 @@
  
  ## Skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <img align="center" alt="OpenCV" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg">
+  <img align="center" alt="OpenCV" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
    <img align="center" alt="NumPy" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
