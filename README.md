@@ -36,8 +36,8 @@
   <img align="center" alt="R" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-&nbsp;&nbsp; Python 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OpenCV 
+&nbsp; Python 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OpenCV 
 &nbsp;&nbsp;&nbsp; NumPy 
 &nbsp;&nbsp;&nbsp; Pandas 
 &nbsp;&nbsp;&nbsp; TensorFlow 
