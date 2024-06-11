@@ -48,12 +48,6 @@
   
 </br>
 
-![Image](skills.svg)
-
-
-
-
-
 #### LeetCode
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Nick2440?ext=heatmap)
