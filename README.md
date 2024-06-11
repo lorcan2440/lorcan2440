@@ -48,7 +48,7 @@
   
 </br>
 
-![Image](skills.svg)
+![Image](skills.svg?sanitize=true)
 
 
 
