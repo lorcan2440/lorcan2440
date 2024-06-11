@@ -53,5 +53,3 @@
   
 </br>
 
-![skills](Untitled1.svg)
-
