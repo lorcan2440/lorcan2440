@@ -4,6 +4,14 @@
 
 #### My [Portfolio Website](https://lorcan.netlify.app/)
 
+## Info
+
+ <div>
+  <a href="https://github.com/lorcan2440">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorcan2440&layout=compact&langs_count=8&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorcan2440&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/lorcan-nicholls-a703821b7/" target="https://www.linkedin.com/in/lorcan-nicholls-a703821b7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/lorcan-nicholls-a703821b7/"></a>
