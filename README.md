@@ -31,7 +31,7 @@
 
 ![skills](skills_list.svg)
 
-# Info
+## Info
 
  <div>
   <a href="https://github.com/lorcan2440">
