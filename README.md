@@ -37,7 +37,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-![skills](skills.svg)
+![skills](skills_listed.svg)
 
 
 
