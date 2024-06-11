@@ -48,7 +48,7 @@
   
 </br>
 
-![Image](https://lorcan.netlify.app/uploads/hosting_gh/skills.svg)
+![Image](skills.svg)
 
 
 
