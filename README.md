@@ -48,7 +48,7 @@
   
 </br>
 
-![Image](national_university_of_singapore.svg)
+![Image](skills.svg)
 
 
 
