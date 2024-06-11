@@ -49,6 +49,7 @@
 </br>
 
 ![Skills](skills.svg)
+![Skills](skills.html)
 
 #### LeetCode
 
