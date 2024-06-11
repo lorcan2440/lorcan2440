@@ -36,6 +36,11 @@
   <img align="center" alt="R" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+![skills](skills.svg)
+
+
+
 &nbsp; Python 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OpenCV 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy 
