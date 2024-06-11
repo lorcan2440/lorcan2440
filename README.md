@@ -48,7 +48,7 @@
   
 </br>
 
-![Image](https://github.com/lorcan2440/lorcan2440/blob/main/skills.svg?raw=true)
+![Image](national_university_of_singapore.svg)
 
 
 
