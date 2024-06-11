@@ -30,12 +30,6 @@ imgs = {
 }
 
 
-def download_svg(url: str, save_as: str):
-    r = requests.get(url)
-    with open(save_as, 'wb') as f:
-        f.write(r.content)
-
-
 def main():
 
     # download each of the images in the imgs dict
