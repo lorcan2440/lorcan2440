@@ -48,7 +48,7 @@
   
 </br>
 
-![Image](https://raw.githubusercontent.com/lorcan2440/lorcan2440/main/skills.svg?sanitize=true)
+![Image](https://lorcan.netlify.app/uploads/hosting_gh/skills.svg)
 
 
 
