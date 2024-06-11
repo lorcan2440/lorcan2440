@@ -48,7 +48,7 @@
   
 </br>
 
-![Image](skills.svg)
+![Image](https://github.com/lorcan2440/lorcan2440/blob/main/skills.svg?raw=true)
 
 
 
