@@ -13,7 +13,7 @@
    <img align="center" alt="Pandas" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <img align="center" alt="TensorFlow" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="PyTorch" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
   <img align="center" alt="C++" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
